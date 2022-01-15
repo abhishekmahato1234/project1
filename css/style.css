@@ -19,12 +19,12 @@ a{
 float: left;
 width: 50%;
 }
-.nav-bar-logo h1
+.nav-bar-logo h1 a
 {
    color: white;
    padding:0px 0px 0px 50px;
 }
-.nav-bar-logo h1 span{
+.nav-bar-logo h1 a span{
 color: red;
 }
 .menu-bar
